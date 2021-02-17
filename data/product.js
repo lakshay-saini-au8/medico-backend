@@ -1,6 +1,6 @@
 export const productData = [
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Haloperidol",
     category: "baby-care",
     image:
@@ -10,7 +10,7 @@ export const productData = [
     price: 157,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Octinoxate and Titanium dioxide",
     category: "baby-care",
     image:
@@ -20,7 +20,7 @@ export const productData = [
     price: 98,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "ARISAEMA TRIPHYLLUM ROOT",
     category: "skin-care",
     image:
@@ -30,7 +30,7 @@ export const productData = [
     price: 26,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Enoxaparin sodium",
     category: "medicine",
     image:
@@ -40,7 +40,7 @@ export const productData = [
     price: 134,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "Angelica sinensis, radix, Aralia quinquefolia, Arg. nit., Arsenicum alb., Berber. aqui., Capsicum, Cinchona, Digitalis, Gelsemium, Hypericum, Ignatia, Iodium, Kali brom., Kali carb., Mag. phos., Nat. carb., Nat. mur., Phosphorus, Salix nigra, Sanguinaria, Sepia, Stramonium, Echinacea, Ginkgo",
     category: "baby-care",
@@ -51,7 +51,7 @@ export const productData = [
     price: 73,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Octinoxate and Titanium Dioxide",
     category: "hair-care",
     image:
@@ -61,7 +61,7 @@ export const productData = [
     price: 157,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "AMITRIPTYLINE HYDROCHLORIDE",
     category: "mens-care",
     image:
@@ -71,7 +71,7 @@ export const productData = [
     price: 191,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "DICYCLOMINE HYDROCHLORIDE",
     category: "medicine",
     image:
@@ -81,7 +81,7 @@ export const productData = [
     price: 60,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",
     category: "mens-care",
     image:
@@ -91,7 +91,7 @@ export const productData = [
     price: 122,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Ondansetron Hydrochloride",
     category: "skin-care",
     image:
@@ -101,7 +101,7 @@ export const productData = [
     price: 113,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Levofloxacin",
     category: "hair-care",
     image:
@@ -111,7 +111,7 @@ export const productData = [
     price: 199,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "SALICYLIC ACID",
     category: "skin-care",
     image:
@@ -121,7 +121,7 @@ export const productData = [
     price: 127,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "avanafil",
     category: "womens-care",
     image:
@@ -131,7 +131,7 @@ export const productData = [
     price: 11,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Mirtazapine",
     category: "lip-care",
     image:
@@ -141,7 +141,7 @@ export const productData = [
     price: 6,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "tomato",
     category: "womens-care",
     image:
@@ -151,7 +151,7 @@ export const productData = [
     price: 159,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Sertraline Hydrochloride",
     category: "mens-care",
     image:
@@ -161,7 +161,7 @@ export const productData = [
     price: 28,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Wart Remover with Salicylic Acid",
     category: "skin-care",
     image:
@@ -171,7 +171,7 @@ export const productData = [
     price: 60,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "CAMPHOR (SYNTHETIC), MENTHOL, METHYL SALICYLATE",
     category: "medicine",
     image:
@@ -181,7 +181,7 @@ export const productData = [
     price: 181,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Estradiol",
     category: "mens-care",
     image:
@@ -191,7 +191,7 @@ export const productData = [
     price: 106,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "Calendula Officinalis, Arnica Montana, Hypericum Perforatum, Symphytum Officinale, Bellis Perennis, Ledum Palustre, Sulphuricum Acidum",
     category: "baby-care",
@@ -202,7 +202,7 @@ export const productData = [
     price: 164,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "benazepril hydrochloride and hydrochlorothiazide",
     category: "womens-care",
     image:
@@ -212,7 +212,7 @@ export const productData = [
     price: 178,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Simethicone",
     category: "family-care",
     image:
@@ -222,7 +222,7 @@ export const productData = [
     price: 73,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Fentanyl Citrate",
     category: "baby-care",
     image:
@@ -232,7 +232,7 @@ export const productData = [
     price: 54,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Octisalate, Octocrylene, Avobenzone, Ensulizole",
     category: "baby-care",
     image:
@@ -242,7 +242,7 @@ export const productData = [
     price: 116,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Salt Cedar",
     category: "hair-care",
     image:
@@ -252,7 +252,7 @@ export const productData = [
     price: 34,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Flomax",
     category: "medicine",
     image:
@@ -262,7 +262,7 @@ export const productData = [
     price: 194,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Piroxicam",
     category: "medicine",
     image:
@@ -272,7 +272,7 @@ export const productData = [
     price: 39,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Topiramate",
     category: "baby-care",
     image:
@@ -282,7 +282,7 @@ export const productData = [
     price: 152,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Lansoprazole",
     category: "lip-care",
     image:
@@ -292,7 +292,7 @@ export const productData = [
     price: 25,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Flurbiprofen Sodium",
     category: "medicine",
     image:
@@ -302,7 +302,7 @@ export const productData = [
     price: 45,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "MENTHOL, CALAMINE, ZINC OXIDE",
     category: "skin-care",
     image:
@@ -312,7 +312,7 @@ export const productData = [
     price: 168,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "Calcarea Fluorica, Activated Charcoal, Hamamelis Virginiana Root Bark / Stem Bark, Lachesis Muta Venom, Lycopodium Clavatum Spore, Pulsatilla Vulgaris, Claviceps Purpurea Sclerotium, Delphinium Staphisagrea Seed, Zinc",
     category: "medicine",
@@ -323,7 +323,7 @@ export const productData = [
     price: 115,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Serotonin",
     category: "hair-care",
     image:
@@ -333,7 +333,7 @@ export const productData = [
     price: 197,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Oxygen",
     category: "family-care",
     image:
@@ -343,7 +343,7 @@ export const productData = [
     price: 120,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "PYRITHIONE ZINC",
     category: "baby-care",
     image:
@@ -353,7 +353,7 @@ export const productData = [
     price: 120,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Terbutaline Sulfate",
     category: "family-care",
     image:
@@ -363,7 +363,7 @@ export const productData = [
     price: 76,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Olanzapine",
     category: "medicine",
     image:
@@ -373,7 +373,7 @@ export const productData = [
     price: 126,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "octinoxate, octocrylene, oxybenzone, zinc oxide",
     category: "lip-care",
     image:
@@ -383,7 +383,7 @@ export const productData = [
     price: 60,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Octinoxate and Titanium Dioxide",
     category: "baby-care",
     image:
@@ -393,7 +393,7 @@ export const productData = [
     price: 63,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY",
     category: "family-care",
     image:
@@ -403,7 +403,7 @@ export const productData = [
     price: 160,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Dextromethorphan HBr, Phenylephrine HCl",
     category: "family-care",
     image:
@@ -413,7 +413,7 @@ export const productData = [
     price: 84,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Estazolam",
     category: "medicine",
     image:
@@ -423,7 +423,7 @@ export const productData = [
     price: 73,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "tramadol hydrochloride",
     category: "hair-care",
     image:
@@ -433,7 +433,7 @@ export const productData = [
     price: 151,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Folic Acid",
     category: "baby-care",
     image:
@@ -443,7 +443,7 @@ export const productData = [
     price: 133,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "PULLULARIA PULLULANS",
     category: "family-care",
     image:
@@ -454,7 +454,7 @@ export const productData = [
   },
 
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "BEE VENOM",
     category: "medicine",
     image:
@@ -464,7 +464,7 @@ export const productData = [
     price: 112,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Iodine and Potassium Iodide",
     category: "lip-care",
     image:
@@ -474,7 +474,7 @@ export const productData = [
     price: 146,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Gemfibrozil",
     category: "baby-care",
     image:
@@ -485,7 +485,7 @@ export const productData = [
   },
 
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Glyburide",
     category: "lip-care",
     image:
@@ -495,7 +495,7 @@ export const productData = [
     price: 200,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "WITCH HAZEL, CARTHAMUS TINCTORIS FLOWER BED, CORYDALIS AMBIGUA TUBER, LONGICERA CAPRIFOLIUM CAPRIFOLIUM FLOWER",
     category: "baby-care",
@@ -506,7 +506,7 @@ export const productData = [
     price: 110,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "prednisone",
     category: "baby-care",
     image:
@@ -516,7 +516,7 @@ export const productData = [
     price: 167,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "TITANIUM DIOXIDE, OCTINOXATE, ARBUTIN, ATRACTYLODES JAPONICA ROOT OIL",
     category: "family-care",
@@ -527,7 +527,7 @@ export const productData = [
     price: 103,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "ibuprofen",
     category: "family-care",
     image:
@@ -537,7 +537,7 @@ export const productData = [
     price: 146,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Para Grass Pollen",
     category: "lip-care",
     image:
@@ -547,7 +547,7 @@ export const productData = [
     price: 99,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "MOMETASONE FUROATE",
     category: "skin-care",
     image:
@@ -557,7 +557,7 @@ export const productData = [
     price: 97,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Ranitidine Hydrochloride",
     category: "hair-care",
     image:
@@ -567,7 +567,7 @@ export const productData = [
     price: 199,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "risperidone",
     category: "hair-care",
     image:
@@ -577,7 +577,7 @@ export const productData = [
     price: 27,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "Brompheniramine Maleate, Phenylephrine Hydrochloride, Dextromethorphan Hydrobromide",
     category: "skin-care",
@@ -588,7 +588,7 @@ export const productData = [
     price: 37,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Nifedipine",
     category: "womens-care",
     image:
@@ -598,7 +598,7 @@ export const productData = [
     price: 183,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "MENTHOL",
     category: "baby-care",
     image:
@@ -608,7 +608,7 @@ export const productData = [
     price: 167,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Methyl Salicylate, Capsaicin, and Menthol",
     category: "womens-care",
     image:
@@ -618,7 +618,7 @@ export const productData = [
     price: 26,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Oxcarbazepine",
     category: "lip-care",
     image:
@@ -628,7 +628,7 @@ export const productData = [
     price: 70,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Isometheptene Mucate, Caffeine, and Acetaminophen",
     category: "skin-care",
     image:
@@ -638,7 +638,7 @@ export const productData = [
     price: 105,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "emtricitabine and tenofovir disoproxil fumarate",
     category: "hair-care",
     image:
@@ -648,7 +648,7 @@ export const productData = [
     price: 179,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Phenylephrine Hydrochloride",
     category: "baby-care",
     image:
@@ -658,7 +658,7 @@ export const productData = [
     price: 101,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "oxcarbazepine",
     category: "family-care",
     image:
@@ -668,7 +668,7 @@ export const productData = [
     price: 104,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "ISOLEUCINE, LEUCINE, LYSINE ACETATE, METHIONINE, PHENYLALANINE, THREONINE, TRYPTOPHAN, VALINE, CYSTEINE HYDROCHLORIDE, HISTIDINE, TYROSINE, N-ACETYL-TYROSINE, ALANINE, ARGININE, PROLINE, SERINE, GLYCINE, ASPARTIC ACID, GLUTAMIC ACID, and TAURINE",
     category: "medicine",
@@ -679,7 +679,7 @@ export const productData = [
     price: 28,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Acetaminophen, Aspirin and caffeine",
     category: "lip-care",
     image:
@@ -689,7 +689,7 @@ export const productData = [
     price: 122,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "ZINC OXIDE",
     category: "hair-care",
     image:
@@ -699,7 +699,7 @@ export const productData = [
     price: 179,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Petrolatum",
     category: "lip-care",
     image:
@@ -709,7 +709,7 @@ export const productData = [
     price: 198,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "OXYGEN",
     category: "family-care",
     image:
@@ -719,7 +719,7 @@ export const productData = [
     price: 194,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "calcium carbonate",
     category: "baby-care",
     image:
@@ -729,7 +729,7 @@ export const productData = [
     price: 114,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",
     category: "baby-care",
     image:
@@ -739,7 +739,7 @@ export const productData = [
     price: 200,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "Homosalate and Octinoxate and Octisalate and Octocrylene and Oxybenzone and Avobenzone",
     category: "mens-care",
@@ -750,7 +750,7 @@ export const productData = [
     price: 82,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Ketotifen Fumarate",
     category: "hair-care",
     image:
@@ -761,7 +761,7 @@ export const productData = [
   },
 
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",
     category: "lip-care",
@@ -772,7 +772,7 @@ export const productData = [
     price: 128,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",
     category: "womens-care",
     image:
@@ -782,7 +782,7 @@ export const productData = [
     price: 51,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Alendronate Sodium",
     category: "skin-care",
     image:
@@ -792,7 +792,7 @@ export const productData = [
     price: 55,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "zinc oxide",
     category: "medicine",
     image:
@@ -802,7 +802,7 @@ export const productData = [
     price: 105,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Ensulizole, Octinoxate, Octocrylene, and Oxybenzone",
     category: "family-care",
     image:
@@ -812,7 +812,7 @@ export const productData = [
     price: 44,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Furosemide",
     category: "mens-care",
     image:
@@ -822,7 +822,7 @@ export const productData = [
     price: 152,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Tramadol Hydrochloride",
     category: "skin-care",
     image:
@@ -832,7 +832,7 @@ export const productData = [
     price: 122,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "acarbose",
     category: "lip-care",
     image:
@@ -842,7 +842,7 @@ export const productData = [
     price: 90,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Prochlorperazine Maleate",
     category: "family-care",
     image:
@@ -852,7 +852,7 @@ export const productData = [
     price: 143,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "TITANIUM DIOXIDE",
     category: "mens-care",
     image:
@@ -862,7 +862,7 @@ export const productData = [
     price: 93,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Stemphylium botryosum",
     category: "hair-care",
     image:
@@ -872,7 +872,7 @@ export const productData = [
     price: 8,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Acetaminophen",
     category: "medicine",
     image:
@@ -882,7 +882,7 @@ export const productData = [
     price: 151,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "NUTMEG, ASAFETIDA, STRYCHNOS IGNATII SEED, and LYCOPODIUM CLAVATUM SPORE",
     category: "medicine",
@@ -893,7 +893,7 @@ export const productData = [
     price: 158,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Ethyl Alcohol",
     category: "skin-care",
     image:
@@ -903,7 +903,7 @@ export const productData = [
     price: 15,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Oxygen",
     category: "womens-care",
     image:
@@ -913,7 +913,7 @@ export const productData = [
     price: 9,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "midazolam hydrochloride",
     category: "womens-care",
     image:
@@ -923,7 +923,7 @@ export const productData = [
     price: 22,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "FAMOTIDINE",
     category: "family-care",
     image:
@@ -933,7 +933,7 @@ export const productData = [
     price: 147,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Oxygen",
     category: "hair-care",
     image:
@@ -943,7 +943,7 @@ export const productData = [
     price: 86,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name:
       "Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",
     category: "womens-care",
@@ -954,7 +954,7 @@ export const productData = [
     price: 123,
   },
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Acetaminophen",
     category: "medicine",
     image:
@@ -965,7 +965,7 @@ export const productData = [
   },
 
   {
-    user: "602c5ac827c80712b0e52064",
+    user: "602c9743f0b8590015ac6a73",
     name: "Glycerin, Dimethicone",
     category: "family-care",
     image:
